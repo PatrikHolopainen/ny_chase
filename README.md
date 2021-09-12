@@ -5,4 +5,5 @@ A simple path calculating tool for the game NY Chase. Given the starting square 
 ## How to use it
 Make sure you have all the libraries in place, and then just run it on the command line.
 
-![Example Visualization]("https://raw.githubusercontent.com/PatrikHolopainen/ny_chase/main/chase_case.png")
+![Example Visualization](https://github.com/PatrikHolopainen/ny_chase/blob/main/chase_case.png)
+
